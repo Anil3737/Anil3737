@@ -35,17 +35,12 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/j-chiranjevi-anil/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/comrade_anil" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/Anil3737/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+ ![GitHub Streak](https://streak-stats.demolab.com?user=Anil3737&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil3737&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
