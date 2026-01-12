@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />, I'm J Chiranjevi Anil</h1>
-<h3 align="center">Web Developer | Full Stack Learner | Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer  | Full Stack Learner | Web Developer</h3>
 
 <p align="center">
   <a href="https://github.com/Anil3737">
@@ -56,15 +56,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil3737&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anil3737&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anil3737&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+ 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
 <!-- GitHub Streak -->
 <p align="center">
