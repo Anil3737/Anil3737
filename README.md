@@ -33,26 +33,25 @@
 
 ---
 
-### 🌐 Connect with me:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=Anil3737&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil3737&layout=compact&theme=tokyonight&hide_border=true)
-
-
----
 
 <!-- GitHub Activity Graph -->
 ## 📈 GitHub Activity
 
+### 📈 GitHub Stats
+
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil3737&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anil3737&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anil3737&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
@@ -64,6 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil3737&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ⭐ *I believe consistent learning and building meaningful projects is the key to growth.*
 
