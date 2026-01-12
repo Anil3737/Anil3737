@@ -49,22 +49,16 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil3737&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anil3737&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
- 
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anil3737&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anil3737&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- GitHub Streak -->
 <p align="center">
