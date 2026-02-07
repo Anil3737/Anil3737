@@ -37,13 +37,14 @@
 <!-- GitHub Activity Graph -->
 ## 📈 GitHub Activity
 
-### 📈 GitHub Stats
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil3737&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil3737&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&v=2" />
+
+
 
 
 <!-- GitHub Trophies -->
