@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Web development projects**
-- 🌱 I’m currently learning **Java, SQL, JavaScript, React.js**
+- 🌱 I’m currently learning **Core Java, SQL, JavaScript, React.js**
 - 👯 I’m looking to collaborate on **innovative tech projects**
 - 💬 Ask me about **coding best practices**
 - 📫 How to reach me: **jadachiranjevianil340@gmail.com**
