@@ -93,8 +93,8 @@
 </p>
 
 <!-- Top Languages -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil3737&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>  -->
+</p> 
 
 ⭐ <i>I believe consistent learning and building meaningful projects is the key to growth.</i>
